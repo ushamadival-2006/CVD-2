@@ -1,0 +1,41 @@
+Feature,Importance
+Age_Elderly,0.09179133
+Diabetes Status_Encoded,0.07123957
+Family History of CVD_Encoded,0.06279186
+Smoking Status_Encoded,0.055733167
+Smoking Status,0.053129006
+Family History of CVD,0.04061811
+CVD Risk Score,0.039498225
+Metabolic_Score,0.034517616
+Obesity_Risk,0.032058444
+Physical_Activity_Score,0.031598434
+BMI_Underweight,0.02898612
+Diabetes Status,0.028094312
+Age_Middle,0.0265502
+Age_Adult,0.0252626
+Age,0.024239236
+HDL (mg/dL),0.021318316
+Systolic BP,0.02054487
+Physical_Activity_Encoded,0.01951602
+Cholesterol_HDL_Ratio,0.018853694
+Total Cholesterol (mg/dL),0.016839394
+Fasting Blood Sugar (mg/dL),0.01648984
+Height (m),0.015887806
+BMI_Overweight,0.015851196
+Weight (kg),0.015847947
+Diastolic BP,0.015806431
+Pulse Pressure,0.015508718
+Hypertension_Risk,0.01550547
+Abdominal Circumference (cm),0.015171544
+Age_Senior,0.015029457
+Waist-to-Height Ratio,0.014709373
+Physical Activity Level,0.013936927
+Blood Pressure (mmHg),0.0138580995
+BMI,0.013407643
+BMI_Obese,0.012929297
+BMI_Normal,0.012540656
+Blood_Pressure_Encoded,0.012282056
+Sex,0.011623879
+Blood Pressure Category,0.010433092
+Sex_Encoded,0.0
+Age_Young,0.0
