@@ -1,34 +1,33 @@
 Feature,Importance
-Smoking Status_Encoded,0.08568532
-Age_Senior,0.077308066
-CVD Risk Score,0.071830414
-Metabolic_Score,0.065815434
-Physical_Activity_Score,0.055444717
-Diabetes Status_Encoded,0.05535241
-Family History of CVD_Encoded,0.05263013
-Age,0.045588
-Obesity_Risk,0.037660297
-Systolic BP,0.034124643
-HDL (mg/dL),0.033046585
-Fasting Blood Sugar (mg/dL),0.030323073
-Waist-to-Height Ratio,0.029418033
-Weight (kg),0.028620074
-Cholesterol_HDL_Ratio,0.02775151
-Height (m),0.027579842
-Age_Adult,0.02701272
-Hypertension_Risk,0.026282778
-BMI,0.024927637
-Total Cholesterol (mg/dL),0.024712306
-Diastolic BP,0.024361989
-BMI_Overweight,0.024219215
-Pulse Pressure,0.024113376
-Blood_Pressure_Encoded,0.02160974
-Abdominal Circumference (cm),0.019800017
-Sex_Encoded,0.011275791
-Age_Middle,0.009510606
-Age_Young,0.0029847955
-BMI_Normal,0.0010104144
-BMI_Underweight,0.0
-BMI_Obese,0.0
-Physical_Activity_Encoded,0.0
-Age_Elderly,0.0
+Smoking Status_Encoded,0.07547162
+Age_Elderly,0.061497282
+CVD Risk Score,0.057039153
+Family History of CVD_Encoded,0.05655078
+Obesity_Risk,0.05067888
+Diabetes Status_Encoded,0.04474699
+Physical_Activity_Encoded,0.042086575
+Age,0.039502982
+BMI_Normal,0.03908624
+BMI_Obese,0.038921442
+Age_Senior,0.034155782
+BMI_Underweight,0.03303819
+HDL (mg/dL),0.030826552
+Metabolic_Score,0.028862594
+Age_Middle,0.026796011
+Cholesterol_HDL_Ratio,0.02653739
+Weight (kg),0.02569077
+Fasting Blood Sugar (mg/dL),0.025175318
+Total Cholesterol (mg/dL),0.024161628
+Systolic BP,0.02355213
+Height (m),0.023000663
+Diastolic BP,0.022675343
+Pulse Pressure,0.020584356
+Abdominal Circumference (cm),0.020000592
+Blood_Pressure_Encoded,0.01888984
+BMI,0.01882643
+BMI_Overweight,0.018574676
+Waist-to-Height Ratio,0.017258717
+Age_Adult,0.017157378
+Sex_Encoded,0.014619105
+Hypertension_Risk,0.012617166
+Age_Young,0.011417447
