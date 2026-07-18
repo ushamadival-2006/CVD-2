@@ -1,0 +1,2 @@
+Model,Test_Accuracy,Test_Precision,Test_Recall,Test_F1,Test_AUC,Best_Val_Accuracy,Best_Val_Loss,Training_Time_min,Epochs_Trained,Threshold
+Hybrid ResNet50+ViT-B/16,0.7534,0.8762,0.7581,0.8129,0.8295,0.7621,0.5561,46.08,13,0.3
