@@ -1,0 +1,5 @@
+Metric,Count,Description
+True Negatives,190,Normal predicted Normal
+False Positives,66,Normal predicted Thickened
+False Negatives,149,Thickened predicted Normal
+True Positives,467,Thickened predicted Thickened
